@@ -1,16 +1,65 @@
-# flutter_challenge_guarani
+<h1>Projeto POKEMON com Flutter Modular e HIVE.</h1>
 
-A new Flutter project.
+### Screenshots v1
 
-## Getting Started
+<img src="assets\readme_splash.png" height="500em" /> 
+<img src="assets\readme_home.png" height="500em" /> 
+<img src="assets\readme_students.png" height="500em" /> 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Historia do projeto (branchs)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [MAIN]() - 19/04/23 - (voce esta aqui!)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<h2>Como rodar o projeto</h2>
+
+  + Commands
+
+    ```
+    $ git clone projeto
+    $ cd nome-projeto
+    $ flutter build run
+    $ flutter pub run build_runner watch --delete-conflicting-outputs
+    ```
+    
+<h2>Detalhe do desafio</h2>
+
+* Criar uma aplicação Flutter para visualizar uma lista de Pokémons.
+
+- <img src="assets\readme_mer.png" height="200em" /> 
+
+
+<h2>Requisitos de ambiente:</h2>
+
+* Projeto já configurado para executar uma aplicação em Flutter Web.
+* Configuração com a dependência de sua preferência para inversão de controle e inversão de dependência.
+* Configuração com a dependência de sua preferência para gerenciamento de estado.
+
+
+<h2>Detalhes de Configuracao</h2>
+  
+  + Flutter channel: stable 
+  + Flutter: versao 3.0.5
+  + Dart: versao 2.19.1
+  + Design Pattern: Singleton
+  + Dependencias Utilizadas:  
+    - flutter_modular:
+    - flutter_mobx:
+    - hive:
+    - path_provider: ^2.0.8
+
+<h2>Referencia bibliografica</h2>
+
+  + [FIGMA](https://www.figma.com/file/a6rT2z9LoW5QfTy5w8UrOW/VR-Education?node-id=1-515&t=PnCmDVUnUK0dAzgJ-0)
+  + [FLUTTER_MODULAR](https://modular.flutterando.com.br/docs/intro/)
+  + [MOBX](https://mobx.netlify.app/)
+ 
+
+## Suporte
+
+- amanda.buchivieser@guaranisistemas.com.br
+
+## Candidato/Desenvolvedor
+
+Seguem meu perfil do Linkedin, [@devtvas](https://www.linkedin.com/in/devtvas/).

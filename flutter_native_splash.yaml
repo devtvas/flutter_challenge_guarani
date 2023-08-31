@@ -1,0 +1,20 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  image: assets/images/guarani.png
+  android: true 
+  ios: false
+  color: "#FFB444"
+  fullscreen: true
+  branding: assets/images/guarani.png
+  color_dark: "#121212"
+  image_dark: assets/images/guarani.png
+  branding_dark: assets/images/guarani.png
+  android_disable_fullscreen: true
+
+  android_12:
+    image: assets/images/guarani.png
+    icon_background_color: "#FFB444"
+    image_dark: assets/images/guarani.png
+    icon_background_color_dark: "#121212"
+
+  web: false
